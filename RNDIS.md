@@ -2,7 +2,7 @@
 
 If your WLAN Pi shows up as a COM port (serial device) instead of a network adapter on your Windows 10 or Windows 11 host, follow these steps.
 
-1. Download the [RNDIS driver](RNDIS.zip).
+1. Download the [RNDIS driver](https://github.com/WLAN-Pi/drivers/raw/refs/heads/main/RNDIS.zip).
 
 2. Extract the RNDIS driver and note where you extracted the files.
 

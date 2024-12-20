@@ -14,7 +14,7 @@ If your WLAN Pi shows up as a COM port (serial device) instead of a network adap
 
 ![](2.png)
 
-5. Provide the PATH to the location where you extracted the driver files from step 2.k
+5. Provide the PATH to the location where you extracted the driver files from step 2.
 
 ![](3.png)
 
